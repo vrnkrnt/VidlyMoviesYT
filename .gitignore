@@ -41,6 +41,13 @@ Generated\ Files/
 *.VisualState.xml
 TestResult.xml
 
+# Web.config
+Web.config
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
